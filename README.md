@@ -1,8 +1,12 @@
 # Exploratory Data Analysis of Uber Rides data using Python
+![image](https://github.com/Sumitk874/UberRides_EDA/assets/69776082/d844c529-da89-456d-b961-7d594bee63a6)
+
 
 ## Overview
 
 This project delves into the analysis of Uber ride data, aiming to uncover insightful patterns and trends through Exploratory Data Analysis (EDA) using Python. The project utilizes a combination of powerful libraries such as Pandas, NumPy, Seaborn, and Matplotlib to explore the dataset comprehensively. By leveraging engaging visualizations and insightful analysis, the project aims to provide valuable insights into Uber ride behavior, ultimately contributing to a deeper understanding of transportation dynamics in urban environments.
+
+[Dataset](UberDataset.csv)
 
 ## Jupyter Notebook
 
