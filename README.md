@@ -11,7 +11,7 @@ This project delves into the analysis of Uber ride data, aiming to uncover insig
 ## Jupyter Notebook
 
 The core analysis and visualization processes are documented in a Jupyter Notebook. You can view the notebook by clicking [here](https://nbviewer.org/github/Sumitk874/UberRides_EDA/blob/main/UberRides.ipynb).
-![image](https://github.com/Sumitk874/UberRides_EDA/assets/69776082/ee00cac1-d9c2-4f68-811a-0afed884a876)
+![Untitled design](https://github.com/Sumitk874/UberRides_EDA/assets/69776082/b5f557a2-6181-47cf-9493-3b4ac67f0090)
 
 
 ## Project Structure
